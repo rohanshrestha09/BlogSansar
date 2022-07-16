@@ -12,10 +12,7 @@ const path = require('path');
     }),
     UserModule,
     BlogModule,
-    MongooseModule.forRoot(
-      'mongodb+srv://shrestha_7001:Sensei.20030908@cluster0.xlj7p.mongodb.net/BlogSansar?retryWrites=true&w=majority' ||
-        process.env.MONGODB_URI,
-    ),
+    MongooseModule.forRoot(process.env.MONGODB_URI),
   ],
 })
 export class AppModule {}

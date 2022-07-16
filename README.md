@@ -30,6 +30,18 @@ A blogging app which lets user to login, signup, read other's blog and post thei
 
 ![image](/client/src/images/auth.png)
 
+## Home Page: Dark Mode
+
+![image](/client/src/images/homedark.png)
+
+## Profile Page: Dark Mode
+
+![image](/client/src/images/profiledark.png)
+
+## Blog Page: Dark Mode
+
+![image](/client/src/images/blogdark.png)
+
 ## Installation
 
 ## Running Server
