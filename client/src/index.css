@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+  background-color: rgb(32 34 37);
+}
+
+::-webkit-scrollbar-track {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(170, 170, 170);
+  border-radius: 10px;
+}
+
+/* scrollbar Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(170 170 170 / 0.5);
+}
