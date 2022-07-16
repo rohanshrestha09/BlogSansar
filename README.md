@@ -12,7 +12,7 @@ A blogging app which lets user to login, signup, read other's blog and post thei
 
 ## Blog Page
 
-![image](/client/src/images/blog.png)
+![image](/client/src/images/blogpage.png)
 
 ## User Signup/Login
 
@@ -61,6 +61,15 @@ A blogging app which lets user to login, signup, read other's blog and post thei
   npm install
   npm run start
 ```
+
+## Tech Stack Used
+
+- React
+- TailwindCSS
+- TypeScript
+- Nest
+- Nodejs
+- MongoDB
 
 ## Things i learnt after creating this project
 
